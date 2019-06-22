@@ -25,3 +25,17 @@
 # Ignoring Files
 - create new file named 'gitignore'.  Any files you want git to ignore, add to that file by typing the file name and type into the
   gitignore file.  The gitignore file does not have a file type.
+
+# Git Branches:  Branches allow us to mess around with our code and change things and not affect our original code (master branch).
+
+- Listing all branches: COMMAND: git branch
+
+- Adding a branch: COMMAND: git checkout -b <file_name>
+
+- Changing branches: COMMAND: git checkout <branch_name>
+
+- Merging a branch: COMMAND: git merge <branch_name>
+
+- Removing a branch: COMMAND: git branch -d <branch_name>
+
+
